@@ -1,0 +1,45 @@
+{
+  "name": "cordova-plugin-dialog-gps",
+  "version": "0.0.2",
+  "description": "Plugin for phonegap to display a dialog to redirect to gps settings when gps are disabled.",
+  "cordova": {
+    "id": "cordova-plugin-dialog-gps",
+    "platforms": [
+      "ios",
+      "android",
+      "browser"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joobasas/cl.rmd.cordova.dialoggps"
+  },
+  "keywords": [
+    "appplant",
+    "background",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android",
+    "cordova-browser"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    },
+    {
+      "name": "android-sdk",
+      "version": ">=16"
+    },
+    {
+      "name": "windows-sdk",
+      "version": ">=10.0.14393.0"
+    }
+  ],
+  "author": "Jooba SAS",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/joobasas/cl.rmd.cordova.dialoggps/issues"
+  },
+  "homepage": "https://github.com/joobasas/cl.rmd.cordova.dialoggps#readme"
+}
